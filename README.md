@@ -1,7 +1,7 @@
 토이 프로젝트 no.3
 ----
 
-광고 차단 api
+api
 
 /etc/hosts 파일을 수정 (윈도우의 경우 C:\Windows\System32\drivers\etc )
 
@@ -18,4 +18,5 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 keyword.ad.daum.net
+127.0.0.1 inter1ads.com
 ```
